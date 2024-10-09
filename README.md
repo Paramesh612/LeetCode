@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Paramesh612/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/Paramesh612/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

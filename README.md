@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Paramesh612/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Paramesh612/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Paramesh612/LeetCode/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Paramesh612/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Paramesh612/LeetCode/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |

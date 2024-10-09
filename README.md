@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Linked List
 |  |
 | ------- |

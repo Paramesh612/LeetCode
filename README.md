@@ -84,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Paramesh612/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->

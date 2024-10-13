@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Paramesh612/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Paramesh612/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Paramesh612/LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Paramesh612/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Paramesh612/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Paramesh612/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Paramesh612/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Paramesh612/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Paramesh612/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

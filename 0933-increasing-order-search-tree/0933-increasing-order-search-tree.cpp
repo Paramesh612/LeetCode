@@ -11,30 +11,21 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode *root , vector<TreeNode*> &v){
+    void inorder(TreeNode *root ,  TreeNode *&prev , TreeNode* &head){
         if(!root) return;
-
-        inorder(root->left , v);
-        v.push_back(root);
-        inorder(root->right ,v);
+        inorder(root->left ,  prev , head);
+        if(!prev) {prev=root;head=root;}
+        else{
+            prev->left=NULL;
+            prev->right=new TreeNode(root->val);
+            prev=prev->right;
+        }
+        inorder(root->right , prev , head);
     }   
 
     TreeNode* increasingBST(TreeNode* root) {
-        vector<TreeNode*>v;
-        inorder(root,v);
-
-        TreeNode *temp=NULL;
-        for(auto &x:v){
-            cout<<x->val;
-
-            if(!temp) temp=x;
-            else{
-                temp->left=NULL;
-                // temp->right=x;
-                temp->right= new TreeNode(x->val);
-                temp=temp->right;
-            }
-        }
-        return v[0];
+        TreeNode *head=NULL ,*prev=NULL;
+        inorder(root,prev,head);
+        return head;
     }
 };

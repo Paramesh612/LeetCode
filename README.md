@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Paramesh612/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Paramesh612/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/Paramesh612/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Paramesh612/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

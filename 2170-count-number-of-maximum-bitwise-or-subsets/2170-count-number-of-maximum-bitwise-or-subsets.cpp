@@ -1,6 +1,10 @@
 class Solution {
 public:
     void recurse(vector<int> nums, int i , int val ,int maxVal, int &count) {
+        if(val == maxVal){
+            count+=pow(2,nums.size()-i);
+            return;
+        }
         if (i == nums.size()) {
             if(val==maxVal)count++;
             return;
@@ -13,8 +17,6 @@ public:
         for (auto& x : nums) {
             maxVal |= x;
         }
-        // cout<<"Maximum Or Val: "<<maxVal;
-
         int count = 0;
         recurse(nums, 0 , 0 , maxVal , count);
         return count;

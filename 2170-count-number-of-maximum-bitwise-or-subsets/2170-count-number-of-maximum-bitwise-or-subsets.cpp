@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void recurse(vector<int> nums, int i , int val ,int maxVal, int &count) {
+    void recurse(vector<int> &nums, int i , int val ,int maxVal, int &count) {
         if(val == maxVal){
             count+=pow(2,nums.size()-i);
             return;

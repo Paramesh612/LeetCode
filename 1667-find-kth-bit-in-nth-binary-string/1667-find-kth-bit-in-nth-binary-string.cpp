@@ -1,23 +1,28 @@
 class Solution {
 public:
-    void invertBits(string &str){
-        for(auto &it:str){
-            if(it=='0') it='1';
-            else it='0';
+    void invertBits(string& str) {
+        for (auto& it : str) {
+            if (it == '0')
+                it = '1';
+            else
+                it = '0';
         }
     }
+
+    // bool invert=false;
     char findKthBit(int n, int k) {
-        string s = "0";
+        if (k == 1)
+            return  '0'; //invert ? '1' : // The first position is always 1
 
-        // k--; // Coverting this into index
+        int length = pow(2, n) - 1;
+        int mid = length / 2;
 
-        for(int i=0; i<n && s.size()<k;i++){
-            string invRev = s;
-            invertBits(invRev);
-            reverse(invRev.begin(),invRev.end());
-            
-            s=(s+"1"+invRev);
+        if (k == mid)
+            return '1'; //invert ? '0' :  // The midpoint is always 1
+        else if (k < mid)
+            return findKthBit(n - 1, k);
+        else {
+            return findKthBit(n - 1, length - k + 1)=='0'?'1':'0';
         }
-        return s[k-1];
     }
 };

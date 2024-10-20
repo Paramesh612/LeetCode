@@ -1,11 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size()!=t.size()) return false;
-
-        // for(int i=0){
-
-        // }
+        // Use Map :_-)
         sort(s.begin(),s.end());
         sort(t.begin(),t.end());
 

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Paramesh612/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Paramesh612/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Bit Manipulation
 |  |

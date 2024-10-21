@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Paramesh612/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |

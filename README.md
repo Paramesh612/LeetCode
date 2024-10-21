@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Paramesh612/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Paramesh612/LeetCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Paramesh612/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Paramesh612/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Paramesh612/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Paramesh612/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 ## Combinatorics

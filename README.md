@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Paramesh612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Paramesh612/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Paramesh612/LeetCode/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Paramesh612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Paramesh612/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Paramesh612/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Paramesh612/LeetCode/tree/master/0290-word-pattern) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

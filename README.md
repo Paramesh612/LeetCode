@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Paramesh612/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Paramesh612/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Paramesh612/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |

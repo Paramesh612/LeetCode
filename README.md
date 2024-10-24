@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Paramesh612/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Paramesh612/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Paramesh612/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Paramesh612/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Paramesh612/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Paramesh612/LeetCode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Paramesh612/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Paramesh612/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Paramesh612/LeetCode/tree/master/0198-house-robber) |

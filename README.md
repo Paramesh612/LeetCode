@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Paramesh612/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Paramesh612/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Paramesh612/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Paramesh612/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Paramesh612/LeetCode/tree/master/0072-edit-distance) |

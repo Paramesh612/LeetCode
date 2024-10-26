@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Paramesh612/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Paramesh612/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Paramesh612/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Paramesh612/LeetCode/tree/master/0069-sqrtx) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Paramesh612/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Paramesh612/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Paramesh612/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Paramesh612/LeetCode/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Paramesh612/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Paramesh612/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Paramesh612/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Paramesh612/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Paramesh612/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Paramesh612/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Paramesh612/LeetCode/tree/master/0072-edit-distance) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Paramesh612/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Paramesh612/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Paramesh612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Paramesh612/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Paramesh612/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Paramesh612/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Paramesh612/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Paramesh612/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |

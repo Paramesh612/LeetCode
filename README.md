@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Paramesh612/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Paramesh612/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Paramesh612/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Paramesh612/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Paramesh612/LeetCode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Paramesh612/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Paramesh612/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Paramesh612/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |

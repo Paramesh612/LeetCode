@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Paramesh612/LeetCode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Paramesh612/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Paramesh612/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Paramesh612/LeetCode/tree/master/0414-third-maximum-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Enumeration
 |  |
 | ------- |

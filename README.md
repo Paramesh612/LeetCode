@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Paramesh612/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Bit Manipulation
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->

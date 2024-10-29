@@ -1,26 +1,25 @@
 class KthLargest {
 public:
     int k;
+
     vector<int>nums;
-    // priority_queue<int> pq;
+    priority_queue<int,vector<int>,greater<int>> pq;
 
     multiset<int> st;
     KthLargest(int k, vector<int>& nums) {
         this->k=k;
         this->nums=nums;
 
-        st.insert(nums.begin(),nums.end());
-    }
+        for(auto &x:nums){
+            pq.push(x);
+            if(pq.size()>k) pq.pop();  //pop the smallest element
+        }
+    }   
     
     int add(int val) {
-
-        // for(auto &x:st)cout<<x;
-        // cout<<endl;
-
-        st.insert(val);
-        auto ret=st.end();
-        for(int i=0;i<k;i++) ret--;
-        return *(ret);
+        pq.push(val);
+        if(pq.size()>k) pq.pop();
+        return pq.top();
     }
 };
 

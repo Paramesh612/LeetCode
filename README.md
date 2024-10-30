@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Paramesh612/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3324-split-the-array](https://github.com/Paramesh612/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## String
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Union Find
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Recursion
 |  |
 | ------- |

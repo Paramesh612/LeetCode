@@ -12,9 +12,9 @@ public:
                 min2=i;
             }
         }
-        cout<<"nums[0]: "<<nums[0]<<endl;
-        cout<<"nums[min1]: "<<nums[min1]<<endl;
-        cout<<"nums[min2]: "<<nums[min2]<<endl;
+        // cout<<"nums[0]: "<<nums[0]<<endl;
+        // cout<<"nums[min1]: "<<nums[min1]<<endl;
+        // cout<<"nums[min2]: "<<nums[min2]<<endl;
         
         return nums[0]+nums[min1]+nums[min2];
     }

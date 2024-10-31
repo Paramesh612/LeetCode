@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Paramesh612/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Paramesh612/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Paramesh612/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Paramesh612/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3324-split-the-array](https://github.com/Paramesh612/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |

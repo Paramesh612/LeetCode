@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Paramesh612/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Paramesh612/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Paramesh612/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Paramesh612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Paramesh612/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Paramesh612/LeetCode/tree/master/0056-merge-intervals) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Paramesh612/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Paramesh612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Paramesh612/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Paramesh612/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Paramesh612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree

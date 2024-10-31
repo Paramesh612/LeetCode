@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Paramesh612/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Paramesh612/LeetCode/tree/master/0289-game-of-life) |
+| [0334-increasing-triplet-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Paramesh612/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Paramesh612/LeetCode/tree/master/0414-third-maximum-number) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Paramesh612/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Paramesh612/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Paramesh612/LeetCode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |

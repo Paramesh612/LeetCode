@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0812-rotate-string](https://github.com/Paramesh612/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Paramesh612/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Paramesh612/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Paramesh612/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

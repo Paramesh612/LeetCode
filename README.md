@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Paramesh612/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Paramesh612/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Paramesh612/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3324-split-the-array](https://github.com/Paramesh612/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Paramesh612/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Paramesh612/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Paramesh612/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Paramesh612/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Union Find
 |  |

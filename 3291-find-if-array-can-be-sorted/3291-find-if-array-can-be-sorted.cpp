@@ -11,17 +11,19 @@ public:
         return c;
     }
     bool canSortArray(vector<int>& nums) {
-        vector<pair<int,int>> minMax;
-        int min1=nums[0] , min2=nums[0] , max1=nums[0] , max2=nums[0];
+        // vector<pair<int,int>> minMax;
+        int min1=nums[0] , max1=nums[0] , minMax_back_second=INT_MIN , minMax_back_first=INT_MAX;
 
-        minMax.push_back({INT_MAX,INT_MIN});
+        // minMax.push_back({INT_MAX,INT_MIN});
 
+        int numBitsPrev=findBits(nums[0]);
         for(int i=1; i<nums.size() ;i++){
-            if(findBits(nums[i])!=findBits(nums[i-1])){
-                if (minMax.back().second > min1) return false;
+            int bitsNow =findBits(nums[i]);
+            if(bitsNow!=numBitsPrev){
+                if (minMax_back_second > min1) return false;
 
-                minMax.push_back({min1,max1});
-                // cout<<"Pushing... "<<min1<<","<<max1<<endl;
+                minMax_back_first=min1;
+                minMax_back_second=max1;
     
                 min1=nums[i];
                 max1=nums[i];
@@ -29,9 +31,10 @@ public:
                 min1=min(min1,nums[i]);
                 max1=max(max1,nums[i]);
             }
+            numBitsPrev=bitsNow;
         }
 
-        if (minMax.back().second > min1) return false;
+        if (minMax_back_second > min1) return false;
         return true;
     }
 };

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Paramesh612/LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Paramesh612/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Paramesh612/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Paramesh612/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Paramesh612/LeetCode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [1386-shift-2d-grid](https://github.com/Paramesh612/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Paramesh612/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
@@ -549,4 +552,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->

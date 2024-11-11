@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Paramesh612/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Paramesh612/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Paramesh612/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Paramesh612/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Paramesh612/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Paramesh612/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Paramesh612/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Paramesh612/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |

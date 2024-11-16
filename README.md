@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1386-shift-2d-grid](https://github.com/Paramesh612/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Paramesh612/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Paramesh612/LeetCode/tree/master/0143-reorder-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

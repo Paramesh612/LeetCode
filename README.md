@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
+| [1033-broken-calculator](https://github.com/Paramesh612/LeetCode/tree/master/1033-broken-calculator) |
 | [3227-find-missing-and-repeated-values](https://github.com/Paramesh612/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1033-broken-calculator](https://github.com/Paramesh612/LeetCode/tree/master/1033-broken-calculator) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |

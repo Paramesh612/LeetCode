@@ -12,12 +12,8 @@ public:
         }
 
         for(int i=0 ; i< fronts.size();i++){
-            if(fronts[i]!=backs[i] && notEligible.count(fronts[i])<=0 && fronts[i]<minVal ){
-                minVal = fronts[i];
-            }
-            if(fronts[i]!=backs[i] && notEligible.count(backs[i])<=0 && backs[i]<minVal ){
-                minVal = backs[i];
-            }
+            if(!notEligible.count(fronts[i]) )minVal = min(minVal,fronts[i]);
+            if(!notEligible.count(backs[i]) )minVal = min(minVal,backs[i]);
         }
 
         if(minVal == INT_MAX) return 0;

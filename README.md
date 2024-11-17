@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Paramesh612/LeetCode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
+| [0842-card-flipping-game](https://github.com/Paramesh612/LeetCode/tree/master/0842-card-flipping-game) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
+| [0842-card-flipping-game](https://github.com/Paramesh612/LeetCode/tree/master/0842-card-flipping-game) |
 | [1319-unique-number-of-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |

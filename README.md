@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/Paramesh612/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1755-defuse-the-bomb](https://github.com/Paramesh612/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Paramesh612/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Paramesh612/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Paramesh612/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Paramesh612/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Design

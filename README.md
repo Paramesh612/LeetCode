@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Paramesh612/LeetCode/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/Paramesh612/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Paramesh612/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Paramesh612/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Paramesh612/LeetCode/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/Paramesh612/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Paramesh612/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Paramesh612/LeetCode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Paramesh612/LeetCode/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/Paramesh612/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Paramesh612/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Paramesh612/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Paramesh612/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Paramesh612/LeetCode/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/Paramesh612/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Paramesh612/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Paramesh612/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Paramesh612/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Paramesh612/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/Paramesh612/LeetCode/tree/master/3427-special-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Paramesh612/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3324-split-the-array](https://github.com/Paramesh612/LeetCode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Paramesh612/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3427-special-array-ii](https://github.com/Paramesh612/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Paramesh612/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [3427-special-array-ii](https://github.com/Paramesh612/LeetCode/tree/master/3427-special-array-ii) |
 ## Iterator
 |  |
 | ------- |

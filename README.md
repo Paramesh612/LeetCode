@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Paramesh612/LeetCode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Paramesh612/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
+| [0747-min-cost-climbing-stairs](https://github.com/Paramesh612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0842-card-flipping-game](https://github.com/Paramesh612/LeetCode/tree/master/0842-card-flipping-game) |
 | [1002-maximum-width-ramp](https://github.com/Paramesh612/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Paramesh612/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Paramesh612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |

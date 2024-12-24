@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Paramesh612/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Paramesh612/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Paramesh612/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Paramesh612/LeetCode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Paramesh612/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Paramesh612/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |

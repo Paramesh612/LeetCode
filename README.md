@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Paramesh612/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Paramesh612/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/Paramesh612/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Paramesh612/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Paramesh612/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Paramesh612/LeetCode/tree/master/0133-clone-graph) |
+| [1300-critical-connections-in-a-network](https://github.com/Paramesh612/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/Paramesh612/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Paramesh612/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
@@ -665,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Paramesh612/LeetCode/tree/master/0909-stone-game) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Paramesh612/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

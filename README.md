@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Paramesh612/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/Paramesh612/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Paramesh612/LeetCode/tree/master/0909-stone-game) |
 | [1033-broken-calculator](https://github.com/Paramesh612/LeetCode/tree/master/1033-broken-calculator) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Paramesh612/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Paramesh612/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Paramesh612/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Paramesh612/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Paramesh612/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Paramesh612/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Paramesh612/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Paramesh612/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Paramesh612/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Paramesh612/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Paramesh612/LeetCode/tree/master/3195-separate-black-and-white-balls) |

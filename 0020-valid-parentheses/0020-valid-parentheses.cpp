@@ -1,44 +1,14 @@
 class Solution {
 public:
-    bool isOpen(char el){
-        string check="({[";
-        for(char el2 : check){
-            if(el2 == el)
-                return true;
-        }
-        return false;
-    }
-    // bool isClose(char el){
-    //     string check=")]}";
-    //     for(char el2 : check){
-    //         if(el2 == el)
-    //             return true;
-    //     }
-    //     return false;
-    // }
-
-    char getClose(char el){
-        string check="({[";
-        if(el==check[0])
-            return ')';
-        else if(el==check[1])
-            return '}';
-        else if(el == check[2]) 
-            return ']';
-        
-        return '*';
-    }
-
     bool isValid(string s) {
-        stack<char> st;
-        for(char el:s){
-            if(isOpen(el)) st.push(el);
-            else if(!st.empty() && el == getClose(st.top()))
-                st.pop();
-            else
-                st.push(el);
-            
+        stack<char>st;
+        for(auto &x:s){
+            if(x=='{' || x=='[' || x=='(') st.push(x);
+            else{
+                int diffVal = (x==')')?1:2;
+                if(!st.empty() && st.top()+diffVal == x) st.pop(); else return false;
+            }
         }
-        return st.empty();
+        return st.empty()?true:false;
     }
 };

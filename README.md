@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Paramesh612/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Paramesh612/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paramesh612/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Paramesh612/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Paramesh612/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Paramesh612/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Paramesh612/LeetCode/tree/master/0043-multiply-strings) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Paramesh612/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Paramesh612/LeetCode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Paramesh612/LeetCode/tree/master/0173-binary-search-tree-iterator) |

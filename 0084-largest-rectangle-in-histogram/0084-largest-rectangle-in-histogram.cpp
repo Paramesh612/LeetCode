@@ -1,6 +1,5 @@
 
 class Solution {
-    //STOP STALKING ME BLUD
 private:
     template <typename T>
     void print(vector<T> v){
@@ -10,6 +9,8 @@ private:
 public:
     // Saw the hint of taking NextSmall and PrevSmall. Others I cracked :)
     int largestRectangleArea(vector<int>& heights) {
+        //STOP STALKING ME BLUD
+        
         int n=heights.size(), ans = 0;
         stack<pair<int,int>> mono , mono2; // Value , index
         vector<int> nextSmall(n), prevSmall(n);
@@ -29,6 +30,7 @@ public:
             while(mono2.top().first >= heights[j]) mono2.pop();
             prevSmall[j]=mono2.top().second;
             mono2.push({heights[j],j});
+
         }
         for(int i=0 ; i<n; i++) ans = max(ans , ((nextSmall[i]-1)-(prevSmall[i]+1)+1)*heights[i] );
         return ans;

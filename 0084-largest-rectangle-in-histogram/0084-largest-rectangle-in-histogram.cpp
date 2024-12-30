@@ -13,7 +13,7 @@ public:
         
         int n=heights.size(), ans = 0;
         stack<pair<int,int>> mono; // Value , index
-        vector<int> prevSmall(n); // nextSmall(n),
+        // vector<int> prevSmall(n); // nextSmall(n),
 
         pair<int,int> stopper = {-1,-1};
         mono.push(stopper);  // Helps to save writing some 'if' cases 
@@ -21,20 +21,30 @@ public:
         for(int j=0 ; j<n; j++){
             //Finding PrevSmallest
             while(mono.top().first >= heights[j]){ 
-                // nextSmall[mono.top().second] = j;
+                /*
                 ans = max( ans, ((j-1)-(prevSmall[mono.top().second]+1)+1)*heights[mono.top().second] );
+                Simplifying the formula:  */
+
+                // What is the prevSmall value. Isnt it actually the element below????
+                // Then why store it
+
+                int indexOfOldTop = mono.top().second;
                 mono.pop();
+
+                // The new top is the nextSmall of that old top
+                ans = max( ans, (j-mono.top().second-1)*heights[indexOfOldTop]);
+
+
             }
-            prevSmall[j]=mono.top().second;
             mono.push({heights[j],j});
 
         }
         
         while(mono.top() != stopper){ 
-            ans = max( ans, ((n-1)-(prevSmall[mono.top().second]+1)+1)*heights[mono.top().second] );
+            int indexOfOldTop = mono.top().second;
             mono.pop();
+            ans = max( ans, (n-mono.top().second-1)*heights[indexOfOldTop]);
         }
-        // for(int i=0 ; i<n; i++) ans = max(ans , ((nextSmall[i]-1)-(prevSmall[i]+1)+1)*heights[i] );
         return ans;
     }
 };

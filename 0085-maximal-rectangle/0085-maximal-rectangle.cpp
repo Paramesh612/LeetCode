@@ -19,24 +19,17 @@ private:
     }
 public:
     int maximalRectangle(vector<vector<char>>& mat) {
-        int m = mat.size() , n = mat[0].size();   // m rows , n cols
-        vector<vector<int>> matrix(m,vector<int>(n));
-
-        for(int i=0;i<n;i++) matrix[0][i] = mat[0][i]-'0';
-        for(int i=1; i<m ; i++){
-            for(int j=0; j<n ; j++){
-                if(mat[i][j]-'0'){
-                    matrix[i][j] = (mat[i][j]-'0'+matrix[i-1][j]); 
-                }
-            }
-        }
-
-        // Now each Row is its own Histogram
+        int m = mat.size() , n = mat[0].size();   // m rows , n cols        
         int ans = 0;
-        // for(int i=0; i<m ; i++) println(matrix[i]);
-
+        
+        // Now each Row is its own Histogram
+        vector<int>arr(n); // Using 1D vector to create a temp int array of the current row
         for(int i=0; i<m ; i++){
-            ans = max(ans, findMaxAreaHistogram(matrix[i]));
+            for(int j=0; j<n; j++){
+                if(mat[i][j]-'0') arr[j]++;
+                else arr[j]=0;
+            }
+            ans = max(ans, findMaxAreaHistogram(arr));
         } 
         return ans;
     }

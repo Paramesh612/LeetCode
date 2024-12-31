@@ -1,67 +1,49 @@
 class Solution {
-private:
-    bool isPermitted(string a,string b){
-        bool ret = false;
-        for(int i=0; i<a.size(); i++){
-            if(a[i]-b[i]){ 
-                if(ret) return false; 
-                else ret = true;
-            }
-        }
-        return ret;
-    }
+public:
+/*
+    Graph & BFS ( Damn )
+    This is Good. Really good. But its O(n^2 k); n -> number of words , k-> length of word
+    You can use the generating word combos and then making a hashmap ( pattern -> word )
+    And then directly use that for BFS. Like everytime you need a neighbor , you generate the pattern
+    then look in the map , traverse the neighbors. 
+    I don't think it changes the O() value . But it might change the runtime
+    Check out neetcode for that method
+*/
 
-    int BFS(vector<vector<int>> graph , int start , int end){
-        queue<pair<int,int>> q; //Node , dist from start
-        q.push({start,0});
+    // Then there's the GOAT. Striver. Who did it in O(nklogn); [ O(nk) if you use a hashset instead of set ]
+    // This man really converted this to a TREE & Level-order(BFS)  --> O( wordLength*26*n )
 
-        vector<int> visited(graph.size());
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        unordered_set<string> st(wordList.begin() , wordList.end() );
+        queue<pair<string,int>> q; // For Level-Order or BFS
+
+        q.push({beginWord,1});
+        st.erase(beginWord); 
+        // Because its visited. Visiting later only means same or LATER level. Why would I take it if I can reach now
+
+        // Since I'm using Level-Order, the first time that we see the string will be the ans/
+        // Later means , it ONLY has a possibility of being in same or GREATER level
+
         while(!q.empty()){
-            pair<int,int> current = q.front();
+            pair<string,int> curr = q.front();
             q.pop();
             
-            for(auto &neighbor:graph[current.first] ){
-                if(!visited[neighbor]){
-                    if(neighbor == end) return current.second+1;
-                    visited[neighbor] = true;
-                    q.push({neighbor,current.second+1});
+
+            for(auto &x:curr.first){
+                char temp = x;
+                for(char a = 'a' ; a<='z' ; a++){
+                    x = a;
+                    if(st.contains(curr.first)){
+                        if(curr.first == endWord) return curr.second+1; // Parent level + 1
+                        q.push({curr.first,curr.second+1});
+                        st.erase(curr.first);
+                        // Because its visited. Visiting later only means same or LATER level. Why would I take it if I can reach now
+                    }
                 }
+                x = temp;
             }
         }
-        return -1;
-    }
-public:
-    // Graph & BFS
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        if(beginWord == endWord) return 0;
-
-        int n = wordList.size() , startNode = -1, endNode = -1 ;
-        for(int i=0;i<n;i++){
-            if(wordList[i]==beginWord){
-                startNode = i;
-            }
-            if(wordList[i]==endWord){
-                endNode = i;
-            }
-            if(startNode!=-1 && endNode!=-1) break;
-        }
-        if(startNode==-1){ 
-            wordList.push_back(beginWord);
-            startNode = n;
-            n++;
-        }
-
-        vector<vector<int>> graph(n);
-
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n ; j++){
-                if(isPermitted(wordList[i],wordList[j])){
-                    graph[i].push_back(j);
-                    graph[j].push_back(i);
-                }
-            }
-        }
-
-        return BFS(graph, startNode , endNode) + 1;
+        
+        return 0;
     }   
 };

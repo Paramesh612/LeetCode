@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Paramesh612/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Paramesh612/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Paramesh612/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Paramesh612/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Paramesh612/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Paramesh612/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Paramesh612/LeetCode/tree/master/3427-special-array-ii) |
 ## Iterator
 |  |

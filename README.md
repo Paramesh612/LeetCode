@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Paramesh612/LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/Paramesh612/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Paramesh612/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Paramesh612/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Paramesh612/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Paramesh612/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Paramesh612/LeetCode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/Paramesh612/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Paramesh612/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Paramesh612/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Paramesh612/LeetCode/tree/master/0338-counting-bits) |

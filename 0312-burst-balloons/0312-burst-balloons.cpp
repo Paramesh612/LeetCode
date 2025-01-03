@@ -1,19 +1,5 @@
 class Solution {
-private:
-// Print vector
-    template <typename T>
-    void println(vector<T> nums){
-        for(auto &x:nums) cout<<x<<" ";
-        cout<<endl;
-    }
-
-    int mul(vector<int>& nums , int a, int b, int c){
-        int valA = ( a<0 || a>=nums.size() )? 1: nums[a];
-        int valB = ( b<0 || b>=nums.size() )? 1: nums[b];
-        int valC = ( c<0 || c>=nums.size() )? 1: nums[c];
-        return valA*valB*valC;
-    }
-public:
+    public:
     int maxCoins(vector<int>& nums) {
         int n = nums.size();
         nums.push_back(1);
@@ -31,7 +17,6 @@ public:
                 }
             }
         }
-        for(auto &x:dp) println(x);
         return dp[1][n];
     }
 };

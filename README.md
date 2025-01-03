@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Paramesh612/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Paramesh612/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Paramesh612/LeetCode/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Paramesh612/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Paramesh612/LeetCode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Paramesh612/LeetCode/tree/master/0909-stone-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Paramesh612/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Paramesh612/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0747-min-cost-climbing-stairs](https://github.com/Paramesh612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Paramesh612/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Paramesh612/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Paramesh612/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramesh612/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0842-card-flipping-game](https://github.com/Paramesh612/LeetCode/tree/master/0842-card-flipping-game) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Paramesh612/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Paramesh612/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Paramesh612/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Paramesh612/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |

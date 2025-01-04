@@ -11,23 +11,39 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode *root , unordered_set<int> &st, int &target ,bool &ans){
-        if(!root || ans) return ;
-        inorder(root->left , st, target , ans);
-        if(st.contains(target - root->val)){
-            ans = true;
-            return;
+    bool findTarget(TreeNode* root, int target) {
+        stack<TreeNode*> forwardStack , reverseStack;
+        TreeNode *left = root , *right = root;
+        while((left || !forwardStack.empty()) && (right || !reverseStack.empty())){
+
+            while(left){
+                forwardStack.push(left);
+                left = left->left;
+            }
+
+            while(right){
+                reverseStack.push(right);
+                right = right->right;
+            }
+
+            if(reverseStack.empty() || forwardStack.empty()) return false;
+            
+            left = forwardStack.top();
+            right = reverseStack.top();
+
+            if(left->val > right->val) return false;
+
+            if(left->val + right->val == target) return left == right?false:true;
+            else if(left->val + right->val > target) {
+                reverseStack.pop();
+                right = right->left;
+                left = nullptr;
+            }else{ 
+                left = left->right;
+                right = nullptr;
+                forwardStack.pop();
+            }
         }
-        st.insert(root->val);
-        inorder(root->right , st, target , ans);
-
-    }
-
-    bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> st;
-        bool ans = false;
-        inorder(root , st, k , ans);
-        return ans;
-
+        return false;
     }
 };

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Paramesh612/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Paramesh612/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Paramesh612/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Paramesh612/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Paramesh612/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Paramesh612/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Paramesh612/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Paramesh612/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Paramesh612/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/Paramesh612/LeetCode/tree/master/1304-longest-happy-string) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Paramesh612/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Paramesh612/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Paramesh612/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph

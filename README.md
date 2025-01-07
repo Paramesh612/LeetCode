@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Paramesh612/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Paramesh612/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Paramesh612/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1239-largest-1-bordered-square](https://github.com/Paramesh612/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1319-unique-number-of-occurrences](https://github.com/Paramesh612/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1386-shift-2d-grid](https://github.com/Paramesh612/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Paramesh612/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Paramesh612/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Paramesh612/LeetCode/tree/master/0463-island-perimeter) |
+| [1239-largest-1-bordered-square](https://github.com/Paramesh612/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1386-shift-2d-grid](https://github.com/Paramesh612/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Paramesh612/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Paramesh612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Paramesh612/LeetCode/tree/master/0909-stone-game) |
 | [1063-best-sightseeing-pair](https://github.com/Paramesh612/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1239-largest-1-bordered-square](https://github.com/Paramesh612/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1250-longest-common-subsequence](https://github.com/Paramesh612/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Paramesh612/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Paramesh612/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
